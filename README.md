@@ -146,11 +146,6 @@ ansible-playbook setup.yml --skip-tags=user,nginx
 ansible-playbook deploy.yml
 ```
 
-## Security
 
-If you discover any security related issues, please email amelihovv@ya.ru instead of using the issue tracker.
 
-## Credits
 
-- [Alexander Melihov](https://github.com/melihovv)
-- [All contributors](https://github.com/melihovv/initial-webserver-setup/graphs/contributors)
