@@ -69,7 +69,7 @@ server in this file.
 
 ```
 [web]
-46.101.210.137
+203.161.184.108
 ```
 
 ### Install dependencies
